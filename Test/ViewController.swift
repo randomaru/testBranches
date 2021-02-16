@@ -20,14 +20,14 @@ class ViewController: UIViewController {
 
 		let tableView = UITableView()
 
-		view.addSubview(tableView)
-		tableView.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([
-			tableView.topAnchor.constraint(equalTo: view.topAnchor),
-			tableView.bottomAnchor.constraint(equalTo: view.bottomAnchor),
-			tableView.leftAnchor.constraint(equalTo: view.leftAnchor),
-			tableView.rightAnchor.constraint(equalTo: view.rightAnchor),
-		])
+//		view.addSubview(tableView)
+//		tableView.translatesAutoresizingMaskIntoConstraints = false
+//		NSLayoutConstraint.activate([
+//			tableView.topAnchor.constraint(equalTo: view.topAnchor),
+//			tableView.bottomAnchor.constraint(equalTo: view.bottomAnchor),
+//			tableView.leftAnchor.constraint(equalTo: view.leftAnchor),
+//			tableView.rightAnchor.constraint(equalTo: view.rightAnchor),
+//		])
 		
 
 //		let testView = UIView()
