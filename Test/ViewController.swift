@@ -21,6 +21,7 @@ class ViewController: UIViewController {
 		let tableView = UITableView()
 
 		let branchOne = true
+		let branchTwo = true
 //		view.addSubview(tableView)
 //		tableView.translatesAutoresizingMaskIntoConstraints = false
 //		NSLayoutConstraint.activate([
